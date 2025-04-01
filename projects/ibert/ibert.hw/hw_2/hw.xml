@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Product Version: Vivado v2022.2 (64-bit)                     -->
+<!--                                                              -->
+<!-- Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.        -->
+
+<hwsession version="1" minor="2">
+  <device name="xcau15p_1" gui_info=""/>
+  <ObjectList object_type="hw_device" gui_info="">
+    <Object name="xcau15p_1" gui_info="">
+      <Properties Property="FULL_PROBES.FILE" value="$_project_name_.runs/impl_1/example_ibert_ultrascale_gth_0.ltx"/>
+      <Properties Property="PROBES.FILE" value="$_project_name_.runs/impl_1/example_ibert_ultrascale_gth_0.ltx"/>
+      <Properties Property="PROGRAM.HW_BITSTREAM" value="$_project_name_.runs/impl_1/example_ibert_ultrascale_gth_0.bit"/>
+      <Properties Property="SLR.COUNT" value="1"/>
+    </Object>
+  </ObjectList>
+  <ObjectList object_type="hw_sio_link" gui_info="">
+    <Object name="0_1_0_0/IBERT/Quad_224/MGT_X0Y0/TX->1_1_0_0/IBERT/Quad_224/MGT_X0Y0/RX" gui_info="">
+      <Attributes Attribute="RX_HANDLE" value="1_1_0_0/IBERT/Quad_224/MGT_X0Y0/RX"/>
+      <Attributes Attribute="TX_HANDLE" value="0_1_0_0/IBERT/Quad_224/MGT_X0Y0/TX"/>
+      <Properties Property="DESCRIPTION" value="Auto detected link 8"/>
+    </Object>
+    <Object name="0_1_0_0/IBERT/Quad_224/MGT_X0Y1/TX->1_1_0_0/IBERT/Quad_224/MGT_X0Y1/RX" gui_info="">
+      <Attributes Attribute="RX_HANDLE" value="1_1_0_0/IBERT/Quad_224/MGT_X0Y1/RX"/>
+      <Attributes Attribute="TX_HANDLE" value="0_1_0_0/IBERT/Quad_224/MGT_X0Y1/TX"/>
+      <Properties Property="DESCRIPTION" value="Auto detected link 9"/>
+    </Object>
+    <Object name="0_1_0_0/IBERT/Quad_224/MGT_X0Y2/TX->1_1_0_0/IBERT/Quad_224/MGT_X0Y2/RX" gui_info="">
+      <Attributes Attribute="RX_HANDLE" value="1_1_0_0/IBERT/Quad_224/MGT_X0Y2/RX"/>
+      <Attributes Attribute="TX_HANDLE" value="0_1_0_0/IBERT/Quad_224/MGT_X0Y2/TX"/>
+      <Properties Property="DESCRIPTION" value="Auto detected link 10"/>
+    </Object>
+    <Object name="0_1_0_0/IBERT/Quad_224/MGT_X0Y3/TX->1_1_0_0/IBERT/Quad_224/MGT_X0Y3/RX" gui_info="">
+      <Attributes Attribute="RX_HANDLE" value="1_1_0_0/IBERT/Quad_224/MGT_X0Y3/RX"/>
+      <Attributes Attribute="TX_HANDLE" value="0_1_0_0/IBERT/Quad_224/MGT_X0Y3/TX"/>
+      <Properties Property="DESCRIPTION" value="Auto detected link 11"/>
+    </Object>
+    <Object name="0_1_0_0/IBERT/Quad_225/MGT_X0Y4/TX->1_1_0_0/IBERT/Quad_225/MGT_X0Y4/RX" gui_info="">
+      <Attributes Attribute="RX_HANDLE" value="1_1_0_0/IBERT/Quad_225/MGT_X0Y4/RX"/>
+      <Attributes Attribute="TX_HANDLE" value="0_1_0_0/IBERT/Quad_225/MGT_X0Y4/TX"/>
+      <Properties Property="DESCRIPTION" value="Auto detected link 12"/>
+    </Object>
+    <Object name="0_1_0_0/IBERT/Quad_225/MGT_X0Y5/TX->1_1_0_0/IBERT/Quad_225/MGT_X0Y5/RX" gui_info="">
+      <Attributes Attribute="RX_HANDLE" value="1_1_0_0/IBERT/Quad_225/MGT_X0Y5/RX"/>
+      <Attributes Attribute="TX_HANDLE" value="0_1_0_0/IBERT/Quad_225/MGT_X0Y5/TX"/>
+      <Properties Property="DESCRIPTION" value="Auto detected link 13"/>
+    </Object>
+    <Object name="0_1_0_0/IBERT/Quad_225/MGT_X0Y6/TX->1_1_0_0/IBERT/Quad_225/MGT_X0Y6/RX" gui_info="">
+      <Attributes Attribute="RX_HANDLE" value="1_1_0_0/IBERT/Quad_225/MGT_X0Y6/RX"/>
+      <Attributes Attribute="TX_HANDLE" value="0_1_0_0/IBERT/Quad_225/MGT_X0Y6/TX"/>
+      <Properties Property="DESCRIPTION" value="Auto detected link 14"/>
+    </Object>
+    <Object name="0_1_0_0/IBERT/Quad_225/MGT_X0Y7/TX->1_1_0_0/IBERT/Quad_225/MGT_X0Y7/RX" gui_info="">
+      <Attributes Attribute="RX_HANDLE" value="1_1_0_0/IBERT/Quad_225/MGT_X0Y7/RX"/>
+      <Attributes Attribute="TX_HANDLE" value="0_1_0_0/IBERT/Quad_225/MGT_X0Y7/TX"/>
+      <Properties Property="DESCRIPTION" value="Auto detected link 15"/>
+    </Object>
+  </ObjectList>
+  <probeset name="hw project" active="false"/>
+</hwsession>
